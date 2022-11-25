@@ -1,0 +1,32 @@
+.stud-container{
+    height: 300px;
+    width: 400px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    border: 2px 2px solid gainsboro;
+    box-shadow: 0 0 3px 4px grey;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.stud-container:hover{
+    background-color: aliceblue;
+    box-shadow: 3px 3px 5px 5px grey;
+}
+.mbNo{
+    color: black;
+    font-size: 20px;
+    font-style: italic;
+    font-family: sans-serif;
+}
+.info{
+    color: black;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.study{
+    color: black;
+    font-size: 20px;
+    font-style: italic;
+    font-family: sans-serif;
+}
